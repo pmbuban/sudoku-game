@@ -1,0 +1,19 @@
+.app {
+  text-align: center;
+}
+
+.app-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.board-container {
+  padding-top: 50px;
+}
+
+.block-container {
+  height: 32px;
+  width: 32px;
+  border: 1px solid black;
+}
